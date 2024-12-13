@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_7AjKIYr-Ee-KycUUd8lKCQ" label="test" language="java" technicalLabel="TEST" author="_7AjKIor-Ee-KycUUd8lKCQ" productVersion="Talend Cloud API Services Platform-8.0.1.20240524_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/sediallo/Test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_7BwEAIr-Ee-KycUUd8lKCQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_7AjKIor-Ee-KycUUd8lKCQ" login="seydou.diallo-ext@givenchy.com" firstName="Seydou" lastName="Diallo" type="DQ"/>
+  <TalendProperties:User xmi:id="_-EIP4Ir-Ee-KycUUd8lKCQ" login="mohamed.hamdi@givenchy.com" firstName="mohamed" lastName="Hamdi" type="DQ"/>
+  <TalendProperties:User xmi:id="_szT-cLlYEe-Zv4pGZPuBvw" login="jeromebilly@givenchy.com" firstName="Jerome" lastName="Billy" type="DQ"/>
+  <TalendProperties:User xmi:id="_szT-cblYEe-Zv4pGZPuBvw" login="elia.klein@givenchy.com" firstName="Elia" lastName="KLEIN" type="DQ"/>
+  <TalendProperties:User xmi:id="_szT-crlYEe-Zv4pGZPuBvw" login="abdoulaye.diallo-ext@givenchy.com" firstName="abdoulaye" lastName="diallo" type="DQ"/>
+  <TalendProperties:User xmi:id="_szT-c7lYEe-Zv4pGZPuBvw" login="hakim.darragi-ext@givenchy.com" firstName="hakim" lastName="Darragi" type="DQ"/>
+</xmi:XMI>

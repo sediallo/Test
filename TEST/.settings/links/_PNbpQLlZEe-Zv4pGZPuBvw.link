@@ -1,0 +1,79 @@
+{
+  "itemId" : "_PNbpQLlZEe-Zv4pGZPuBvw",
+  "contextList" : [ {
+    "contextName" : "PRD",
+    "repoId" : "_KGRkYLloEe-Zv4pGZPuBvw",
+    "parameterList" : [ {
+      "id" : "_KGkfZLloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_additionalparams"
+    }, {
+      "id" : "_KGkfYbloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Database_DWH"
+    }, {
+      "id" : "_KGkfYrloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Login"
+    }, {
+      "id" : "_KGkfZbloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Passeword"
+    }, {
+      "id" : "_KGkfZrloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Port"
+    }, {
+      "id" : "_KGkfZ7loEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Schema"
+    }, {
+      "id" : "_KGkfY7loEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Server"
+    } ]
+  }, {
+    "contextName" : "DEV",
+    "repoId" : "_KGRkYLloEe-Zv4pGZPuBvw",
+    "parameterList" : [ {
+      "id" : "_KGkfVLloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_additionalparams"
+    }, {
+      "id" : "_KGkfUbloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Database_DWH"
+    }, {
+      "id" : "_KGkfUrloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Login"
+    }, {
+      "id" : "_KGkfVbloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Passeword"
+    }, {
+      "id" : "_KGkfVrloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Port"
+    }, {
+      "id" : "_KGkfV7loEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Schema"
+    }, {
+      "id" : "_KGkfU7loEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Server"
+    } ]
+  }, {
+    "contextName" : "UAT",
+    "repoId" : "_KGRkYLloEe-Zv4pGZPuBvw",
+    "parameterList" : [ {
+      "id" : "_KGkfXLloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_additionalparams"
+    }, {
+      "id" : "_KGkfWbloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Database_DWH"
+    }, {
+      "id" : "_KGkfWrloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Login"
+    }, {
+      "id" : "_KGkfXbloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Passeword"
+    }, {
+      "id" : "_KGkfXrloEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Port"
+    }, {
+      "id" : "_KGkfX7loEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Schema"
+    }, {
+      "id" : "_KGkfW7loEe-Zv4pGZPuBvw",
+      "name" : "BDD_BI_Server"
+    } ]
+  } ]
+}

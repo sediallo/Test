@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="DEV" xmi:id="_KGkfULloEe-Zv4pGZPuBvw">
+    <contextParameter comment="" name="BDD_BI_Database_DWH" prompt="BDD_BI_Database_DWH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GAMBIT_DWH" xmi:id="_KGkfUbloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Login" prompt="BDD_BI_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="gambit_rec" xmi:id="_KGkfUrloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Server" prompt="BDD_BI_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GIVBI02R" xmi:id="_KGkfU7loEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_additionalparams" prompt="BDD_BI_additionalparams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="noDatetimeStringSync=true" xmi:id="_KGkfVLloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Passeword" prompt="BDD_BI_Passeword?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:7uCtoRzFbL3amsqjuoqMMUToMHSXNSfjmVsT0POu9wYB14g=" xmi:id="_KGkfVbloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Port" prompt="BDD_BI_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_KGkfVrloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Schema" prompt="BDD_BI_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dbo" xmi:id="_KGkfV7loEe-Zv4pGZPuBvw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="UAT" xmi:id="_KGkfWLloEe-Zv4pGZPuBvw">
+    <contextParameter comment="" name="BDD_BI_Database_DWH" prompt="BDD_BI_Database_DWH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GAMBIT_DWH" xmi:id="_KGkfWbloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Login" prompt="BDD_BI_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="gambit_rec&#9;" xmi:id="_KGkfWrloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Server" prompt="BDD_BI_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GIVBI02R" xmi:id="_KGkfW7loEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_additionalparams" prompt="BDD_BI_additionalparams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="noDatetimeStringSync=true&#10; " xmi:id="_KGkfXLloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Passeword" prompt="BDD_BI_Passeword?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:UAEj5QukErK2hZdfghnnEaalzQjKfuUHcFUg1+pzBJrTM8Q=" xmi:id="_KGkfXbloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Port" prompt="BDD_BI_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_KGkfXrloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Schema" prompt="BDD_BI_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dbo" xmi:id="_KGkfX7loEe-Zv4pGZPuBvw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" hide="false" name="PRD" xmi:id="_KGkfYLloEe-Zv4pGZPuBvw">
+    <contextParameter comment="" name="BDD_BI_Database_DWH" prompt="BDD_BI_Database_DWH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GAMBIT_DWH" xmi:id="_KGkfYbloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Login" prompt="BDD_BI_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="gambit_prd" xmi:id="_KGkfYrloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Server" prompt="BDD_BI_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="GIVBI03P" xmi:id="_KGkfY7loEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_additionalparams" prompt="BDD_BI_additionalparams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="noDatetimeStringSync=true&#10;" xmi:id="_KGkfZLloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Passeword" prompt="BDD_BI_Passeword?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:M/dYTNhAhrG93EInqe6jW4dLNrZW5x5aPb4YHM2yrNidzBc=" xmi:id="_KGkfZbloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Port" prompt="BDD_BI_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433" xmi:id="_KGkfZrloEe-Zv4pGZPuBvw"/>
+    <contextParameter comment="" name="BDD_BI_Schema" prompt="BDD_BI_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dbo" xmi:id="_KGkfZ7loEe-Zv4pGZPuBvw"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_7ddcc01e-f395-4065-a83a-489e97a9755b"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>2d6s/NQhwQHQ1oNFrQ9hKMPyQw0F9nqKmCMQBVEQEFo6Bl/hBGJJFEtuTke/TaycsxAruyiiaHRE&#13;
+CIeeT/C5yg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_6ca93fe0-0a5c-465c-9b74-8b44563881a7"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>l9GbdSdIKZm0yyzMyVspZTdNKgEYO5D+yaiKPru/nS2zAucgvc4WnXKLOB/nXlpWk70tMffiWfBd&#13;
+gIk/ZW3pIQ==</DigestValue></Reference></SignedInfo><SignatureValue>SRZXxUt2C9aXGBOuwMx+e1VMFNIFIHLdMZrAoAA15FkYmp6OTRyINSo0kiAZ1S6AusmOESLSO5uQ&#13;
+VssYM20TuW0c48H+XTE/DL9SMVR77MNWNXMiKpwyevdZOHi+vaUOgFfa78/fNhRnUNutd79/4ux0&#13;
+Tcp9I3MVv1GnpRTGB3AIVJyICnp08f5qUB+I5F13hBULmsLT6lq2RXKf7Dj72YFOhbyWBnNSoTHu&#13;
+e9RoHD+EYbca9VbDT3T1sn4wSa8+9l0s5UBdAfrBPBfyKCDmggySJzSnzcHOuYi7UqmqUTs0DByt&#13;
+3naBnfPTKlOiJJJRjwqg9i2TVHCA8Z0lTVRi/A==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_6ca93fe0-0a5c-465c-9b74-8b44563881a7" Target="#_7ddcc01e-f395-4065-a83a-489e97a9755b"><Timestamp>2024-12-13 15:50:46</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
